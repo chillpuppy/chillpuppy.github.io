@@ -2,5 +2,23 @@
 
 body{
 	margin:0px;
-	
+	background-color: #000000da;
+}
+
+.container{
+	width: 50%; margin: 0 auto;
+}
+
+.hero{
+	height: 500px;
+}
+
+.hero-text{
+	color: #ffffff80;
+	font-family: 'Nothing You Could Do', cursive;
+	text-align: center;
+	-webkit-user-select: none; /* Safari */        
+	-moz-user-select: none; /* Firefox */
+	-ms-user-select: none; /* IE10+/Edge */
+	user-select: none; /* Standard */
 }
