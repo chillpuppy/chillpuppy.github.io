@@ -11,9 +11,11 @@ body{
 
 .hero{
 	height: 500px;
+	margin-bottom: -50px;
 }
 
 .hero-text{
+	font-size: 50px;
 	color: #ffffff80;
 	font-family: 'Nothing You Could Do', cursive;
 	text-align: center;
